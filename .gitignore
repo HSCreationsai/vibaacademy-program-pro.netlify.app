@@ -1,0 +1,10 @@
+﻿# Ignore everything by default
+*
+
+# Except the files we want:
+!.gitignore
+!index.html
+
+# Optional: allow CSS or assets
+!style.css
+!assets/
